@@ -1,0 +1,16 @@
+[
+    {
+        "id": "",
+        "name": "",
+        "logo": "",
+        "address": "", 
+        "phone": "",
+        "email": "",
+        "password": "",
+        "reviews": "",
+        "prestationsId": "",
+        "prestatairesList": ""
+    }
+]
+
+// Ne faut-il pas faire un autre JSON avec la liste des prestataires et des presratations ?
